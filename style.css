@@ -337,6 +337,10 @@ section {
     margin-bottom: 2rem;
 }
 
+.outer-exp {
+    display: inline-flexbox;
+}
+
 .experience-details-container {
     display: flex;
     justify-content: center;
