@@ -1,1 +1,3 @@
 # in progress.....
+## 💠Introduction
+Welcome to MyFolio! This website showcases my projects, skills, and experiences. It is designed to provide an overview of my work and help you get to know me better.
